@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1670255838 source:c:\users\bahadir\desktop\q2\main.cpp
+	<stdio.h>
+	<iostream>
+	"linked_list.h"
+
+1670257952 c:\users\bahadir\desktop\q2\linked_list.h
+	<stdio.h>
+	<iostream>
+
+1670255838 source:c:\users\bahadir\desktop\ee441_pa2_2304426_p2_1\main.cpp
+	<stdio.h>
+	<iostream>
+	"linked_list.h"
+
+1670257952 c:\users\bahadir\desktop\ee441_pa2_2304426_p2_1\linked_list.h
+	<stdio.h>
+	<iostream>
+

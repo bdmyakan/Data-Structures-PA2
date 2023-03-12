@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670344484 source:c:\users\bahadir\desktop\q22\main.cpp
+	<iostream>
+	"mazetwo.h"
+
+1670345129 c:\users\bahadir\desktop\q22\mazetwo.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+

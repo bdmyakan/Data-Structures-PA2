@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1670250120 source:c:\users\bahadir\desktop\pa\main.cpp
+	<iostream>
+	"maze.h"
+
+1670248736 c:\users\bahadir\desktop\pa\maze.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+
+1670250411 source:c:\users\bahadir\desktop\a\main.cpp
+	<iostream>
+	"maze.h"
+
+1670248736 c:\users\bahadir\desktop\a\maze.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+
+1670250411 source:c:\users\bahadir\desktop\2304426_pa2_q1\main.cpp
+	<iostream>
+	"maze.h"
+
+1670248736 c:\users\bahadir\desktop\2304426_pa2_q1\maze.h
+	<stdio.h>
+	<iostream>
+	<fstream>
+
